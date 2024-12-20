@@ -1,1 +1,1 @@
-git merge conflict : f1
+GIT MERGE RESOLVED 
